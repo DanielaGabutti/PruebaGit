@@ -1,3 +1,3 @@
-# PruebaGit
-Este repositorio es una prueba de como utilizar Git 
-Es hacer una prueba mas extensa de esto
+# Hola mi nombre es Daniela Gabutti 
+Tengo 32 años de edad
+Mis hobbies son viajar,leer, dibujar.
